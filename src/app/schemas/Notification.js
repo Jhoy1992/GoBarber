@@ -17,7 +17,7 @@ const NotificationSchema = new mongoose.Schema(
     },
   },
   {
-    timestramps: true,
+    timestamps: true,
   }
 );
 
